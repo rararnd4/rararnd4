@@ -1,5 +1,10 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome to my github)
+Heey =) Nice to meet you
+My website is OS, right here --->
+I'm available to freelance jobs
+Get in touch =)
+Ah, follow me here, why not xd
 <!--
 **rararnd4/rararnd4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
