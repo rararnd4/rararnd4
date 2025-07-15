@@ -1,5 +1,6 @@
 ## Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome!)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <!--
 **rararnd4/rararnd4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
