@@ -1,4 +1,4 @@
-## Hi there 👋
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome!)
 ![rararnd4's GitHub stats](https://github-readme-stats.vercel.app/api?username=rararnd4&theme=default&show_icons=true)
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
