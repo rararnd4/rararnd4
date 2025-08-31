@@ -20,9 +20,6 @@
 <p>
   <img height="165" src="https://streak-stats.demolab.com?user={rararnd4}&hide_current_streak=true&date_format=%5BY.%5Dn.j&card_width=380" />
 </p>
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username={rararnd4}&layout=compact&langs_count=8" />
-</p>
 
 ---
 
