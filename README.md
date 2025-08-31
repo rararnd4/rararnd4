@@ -1,4 +1,3 @@
-<h1 align="center">✨ {name} (@{username})</h1>
 <p align="center">
   끊임없이 배우며 <b>식견을 넓히는</b> 개발자
 </p>
@@ -19,20 +18,14 @@
 
 ### GitHub Stats
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username={rararnd4}&show_icons=true&hide_title=true&include_all_commits=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user={rararnd4}&hide_current_streak=true&date_format=%5BY.%5Dn.j&card_width=380" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&hide_title=true&include_all_commits=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user={username}&hide_current_streak=true&date_format=%5BY.%5Dn.j&card_width=380" />
 </p>
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username={rararnd4}&layout=compact&langs_count=8" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&layout=compact&langs_count=8" />
 </p>
 
 ---
-
-### Trophies
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username={rararnd4}&theme=flat&column=7" />
-</p>
-
 
 <!-- 선택: Snake 애니메이션은 workflow 필요
 ![snake gif](https://github.com/{rararnd4}/{rararnd4}/blob/output/github-contribution-grid-snake.svg)
