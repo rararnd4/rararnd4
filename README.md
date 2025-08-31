@@ -1,4 +1,4 @@
-<h1 align="center">✨ {name} (@{rararnd4})</h1>
+<h1 align="center">✨ {name} (@{username})</h1>
 <p align="center">
   끊임없이 배우며 <b>식견을 넓히는</b> 개발자
 </p>
@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=800&vCenter=true&width=650&lines=Node.js+%26+CV+Enthusiast;Learning+YOLOv11;Building+Clean+APIs;Always+Expanding+My+Insight" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=800&vCenter=true&width=650&lines=Python+%26+CV+Enthusiast;Learning+YOLOv11;Always+Expanding+My+Insight" />
 </p>
 
 ---
