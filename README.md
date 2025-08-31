@@ -1,18 +1,39 @@
+<h1 align="center">✨ {name} (@{rararnd4})</h1>
+<p align="center">
+  끊임없이 배우며 <b>식견을 넓히는</b> 개발자
+</p>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome!)
-![rararnd4's GitHub stats](https://github-readme-stats.vercel.app/api?username=rararnd4&theme=default&show_icons=true)
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<!--
-**rararnd4/rararnd4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=800&vCenter=true&width=650&lines=Node.js+%26+CV+Enthusiast;Learning+YOLOv11;Building+Clean+APIs;Always+Expanding+My+Insight" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+### About Me
+- 관심사: yolo, 백엔드
+- 연락: {csuhyeok0514@gmail.com}
+
+---
+
+### GitHub Stats
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username={rararnd4}&show_icons=true&hide_title=true&include_all_commits=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user={rararnd4}&hide_current_streak=true&date_format=%5BY.%5Dn.j&card_width=380" />
+</p>
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username={rararnd4}&layout=compact&langs_count=8" />
+</p>
+
+---
+
+### Trophies
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username={rararnd4}&theme=flat&column=7" />
+</p>
+
+
+<!-- 선택: Snake 애니메이션은 workflow 필요
+![snake gif](https://github.com/{rararnd4}/{rararnd4}/blob/output/github-contribution-grid-snake.svg)
 -->
