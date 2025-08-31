@@ -18,11 +18,10 @@
 
 ### GitHub Stats
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username={rararnd4}&show_icons=true&hide_title=true&include_all_commits=true" />
   <img height="165" src="https://streak-stats.demolab.com?user={rararnd4}&hide_current_streak=true&date_format=%5BY.%5Dn.j&card_width=380" />
 </p>
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&layout=compact&langs_count=8" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username={rararnd4}&layout=compact&langs_count=8" />
 </p>
 
 ---
