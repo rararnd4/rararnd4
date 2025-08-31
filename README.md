@@ -1,5 +1,4 @@
 -![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome!)
--![rararnd4's GitHub stats](https://github-readme-stats.vercel.app/api?username=rararnd4&theme=default&show_icons=true)
 <p align="center">
   끊임없이 배우며 <b>식견을 넓히는</b> 개발자
 </p>
@@ -22,6 +21,7 @@
 <p>
   <img height="165" src="https://streak-stats.demolab.com?user={rararnd4}&hide_current_streak=true&date_format=%5BY.%5Dn.j&card_width=380" />
 </p>
+-![rararnd4's GitHub stats](https://github-readme-stats.vercel.app/api?username=rararnd4&theme=default&show_icons=true)
 
 ---
 
