@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=800&vCenter=true&width=650&lines=Learning +Python+%26+YOLOv11;Always+Expanding+My+Insight" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=800&vCenter=true&width=650&lines=Learning +%26+Python+%26+YOLOv11;Always+Expanding+My+Insight" />
 </p>
 
 ---
