@@ -21,7 +21,7 @@
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=rararnd4&theme=default&show_icons=true" />
 </p>
-
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=rararnd4&utm_content=farm"> <img src="https://render.gitanimals.org/farms/rararnd4" width="600" height="300" /> </a>
 
 <!-- 선택: Snake 애니메이션은 workflow 필요
 ![snake gif](https://github.com/{rararnd4}/{rararnd4}/blob/output/github-contribution-grid-snake.svg)
