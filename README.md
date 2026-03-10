@@ -24,7 +24,7 @@
 ![snake gif](https://github.com/{rararnd4}/{rararnd4}/blob/output/github-contribution-grid-snake.svg)
 -->
 ---
-Languages: Python, JavaScript/TypeScript
-Backend: Spring(studying), FastAPI
-CV: PyTorch, Ultralytics YOLO
+Languages: Python, JavaScript/TypeScript  
+Backend: Spring(studying), FastAPI  
+CV: PyTorch, Ultralytics YOLO  
 ---
