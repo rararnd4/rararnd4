@@ -6,7 +6,10 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=800&vCenter=true&width=650&lines=Learning+Python+%26+YOLOv11+%26+Node.js+%26+React;Always+Expanding+My+Insight;" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=800&vCenter=true&center=true&width=650&lines=Learning+Python+%26+YOLOv11+%26+Node.js+%26+React;Always+Expanding+My+Insight;"
+    alt="Typing SVG"
+  />
 </p>
 
 ---
